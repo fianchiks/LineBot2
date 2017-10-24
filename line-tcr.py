@@ -83,7 +83,7 @@ Prefix is Case sensitive but the commands is not.
 KAC=[cl,ki,kk,kc]
 mid = cl.getProfile(u6de2fd0d3f168038814531c1fb8fb7dc).
 Amid = kk.getProfile(u121d2c4491af367a654beff87dce04ca).
-Bmid = ki。getProfile（）。中
+Bmid = ki.getProfile（）。中
 Cmid = kc.getProfile().mid
 Bots = [mid,Amid,Bmid,Cmid,]
 admin = ["u6de2fd0d3f168038814531c1fb8fb7dc"]
