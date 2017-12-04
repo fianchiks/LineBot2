@@ -6,15 +6,15 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re
 
 cl = LINETCR.LINE()
-cl.login(qr=True)
+cl.logintoken="EnRIidoboT4vNh1Kefyc.BEl9dt8wGdIbrthb/4/33a.KyiiZ8p2oD2T0yjjQYOEojKbPiq8vzRsgpSAvCB3DJk=")
 cl.loginResult()
 
 kk = LINETCR.LINE()
-kk.login(token="MASUKAN TOKEN KALIAN")
+kk.login(token="En9NcNnax0rLhIRCJhN8.PYMrhZGwJB/2GGmJ1qwEEa.NQN4E0tWbq/2H/Fu1rkVca7NwhmpAISb1Q0Oygy0SyQ=")
 kk.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="MASUKAN TOKEN KALIAN")
+ki.login(token="EnwAPQTRKSNlM3UWQUSa.eH0SrjgVnNPLs/+4FC4eYG.mHJf96cf7mAl9e6AfA7imY2wWZ3AJa8mbZczBi5Xq1c=")
 ki.loginResult()
 
 kc = LINETCR.LINE()
@@ -24,7 +24,7 @@ kc.loginResult()
 cl
 
 # adm = LineAlpha.LINE()
-# adm.login(token="EkoRa4LbxQLepMyWmEMe.idD7rqcO/flZ+HSQWA/z7G.Z0Nd273uZOb1aD1eeTNA0FVr1/dN5ja7KuqCAyZlQFg=")
+# adm.login(token="EnRIidoboT4vNh1Kefyc.BEl9dt8wGdIbrthb/4/33a.KyiiZ8p2oD2T0yjjQYOEojKbPiq8vzRsgpSAvCB3DJk=")
 # adm.loginResult()
 
 #client_id = '511abc94ee71658'
